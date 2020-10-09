@@ -1,0 +1,46 @@
+{
+  "resto": [
+    {
+      "name": "royal",
+      "Restaurants": "sfx",
+      "address": "km5",
+      "mobile": "55940436",
+      "id": 1
+    },
+    {
+      "name": "imenfood",
+      "Address": "gbs",
+      "email": "",
+      "id": 2
+    },
+    {
+      "name": "tchawt",
+      "Restaurants": "mahresrestau",
+      "address": "",
+      "mobile": "21940436",
+      "id": 3
+    },
+    {
+      "name": "mouez",
+      "Restaurants": "mahes",
+      "address": "ileb@gmail.com",
+      "mobile": "54549356",
+      "id": 4
+    },
+    {
+      "name": "makflfl",
+      "Restaurants": "tuins",
+      "address": "lompq",
+      "mobile": "22568947",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "name": "aymen",
+      "password": "omrane123",
+      "email": "omrane.@gmil.com",
+      "id": 1
+    }
+  ]
+}
